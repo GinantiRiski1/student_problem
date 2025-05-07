@@ -22,7 +22,7 @@ def map_input_to_numeric(feature, input_value):
 
 st.set_page_config(page_title="🎓 Prediksi Status Mahasiswa", layout="wide")
 st.title("🎓 Aplikasi Prediksi Status Mahasiswa")
-st.markdown("Masukkan data mahasiswa untuk memprediksi apakah akan **Dropout**, **Masih Studi**, atau **Lulus**.")
+st.markdown("Masukkan data mahasiswa untuk memprediksi apakah akan **Dropout**, **Enrolled**, atau **Graduated**.")
 
 st.markdown("### 🧾 Formulir Data Mahasiswa untuk Prediksi Kelulusan")
 
@@ -100,8 +100,8 @@ if submit:
     # Mapping hasil prediksi
     status_map = {
     "Dropout": "❌ Dropout",
-    "Enrolled": "⏳ Masih Studi",
-    "Graduate": "✅ Lulus"
+    "Enrolled": "⏳ Enrolled",
+    "Graduate": "✅ Graduated"
 }
 
     st.markdown("---")
