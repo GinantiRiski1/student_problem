@@ -97,7 +97,7 @@ Dashboard ini membantu pihak manajemen untuk:
 > *Catatan: Link di atas hanya dapat diakses di lingkungan lokal/metabase host terkait.*
 
 > [!NOTE]
-> Video singkat penjelasan business dashboard dan kesimpulannya dapat dilihat pada tautan [YouTube ini](https://youtu.be/FcmiS-Oo1xc 'Jaya Jaya Institute Students Dashboard').
+> Video singkat penjelasan business dashboard dan kesimpulannya dapat dilihat pada tautan [YouTube ini](https://youtu.be/0wtZNW04R-g).
 
 ---
 
@@ -112,8 +112,8 @@ streamlit run app.py
 ```
 ## 🤖 Link Prototype yang Dapat Diakses
 
-✅ [https://jaya-edutech-predictor.streamlit.app](https://jaya-edutech-predictor.streamlit.app)  
-_(Ganti dengan URL asli jika sudah kamu hosting di Streamlit Cloud)_
+✅ [student problem jaya jaya institut](https://studentt.streamlit.app/)  
+
 
 ---
 
